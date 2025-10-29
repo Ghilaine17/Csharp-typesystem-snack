@@ -1,0 +1,14 @@
+C:\Users\aless\Desktop\C#  &  .NET\Progetto C#\Progetto C#\bin\Debug\net8.0\Progetto C#.exe
+C:\Users\aless\Desktop\C#  &  .NET\Progetto C#\Progetto C#\bin\Debug\net8.0\Progetto C#.deps.json
+C:\Users\aless\Desktop\C#  &  .NET\Progetto C#\Progetto C#\bin\Debug\net8.0\Progetto C#.runtimeconfig.json
+C:\Users\aless\Desktop\C#  &  .NET\Progetto C#\Progetto C#\bin\Debug\net8.0\Progetto C#.dll
+C:\Users\aless\Desktop\C#  &  .NET\Progetto C#\Progetto C#\bin\Debug\net8.0\Progetto C#.pdb
+C:\Users\aless\Desktop\C#  &  .NET\Progetto C#\Progetto C#\obj\Debug\net8.0\Progetto C#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aless\Desktop\C#  &  .NET\Progetto C#\Progetto C#\obj\Debug\net8.0\Progetto C#.AssemblyInfoInputs.cache
+C:\Users\aless\Desktop\C#  &  .NET\Progetto C#\Progetto C#\obj\Debug\net8.0\Progetto C#.AssemblyInfo.cs
+C:\Users\aless\Desktop\C#  &  .NET\Progetto C#\Progetto C#\obj\Debug\net8.0\Progetto C#.csproj.CoreCompileInputs.cache
+C:\Users\aless\Desktop\C#  &  .NET\Progetto C#\Progetto C#\obj\Debug\net8.0\Progetto C#.dll
+C:\Users\aless\Desktop\C#  &  .NET\Progetto C#\Progetto C#\obj\Debug\net8.0\refint\Progetto C#.dll
+C:\Users\aless\Desktop\C#  &  .NET\Progetto C#\Progetto C#\obj\Debug\net8.0\Progetto C#.pdb
+C:\Users\aless\Desktop\C#  &  .NET\Progetto C#\Progetto C#\obj\Debug\net8.0\Progetto C#.genruntimeconfig.cache
+C:\Users\aless\Desktop\C#  &  .NET\Progetto C#\Progetto C#\obj\Debug\net8.0\ref\Progetto C#.dll
